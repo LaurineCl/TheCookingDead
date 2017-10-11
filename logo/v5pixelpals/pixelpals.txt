@@ -1,0 +1,34 @@
+V5 Pixelpals
+---------------
+Instructions:
+
+
+++ Pixelpals ++
+
+This is a dingbat font that contains a 
+variety of "characters" with different facial 
+expressions, along with a few additional -non 
+character- pictorials. _All_ uppercase, 
+lowercase, numerals, shift-numerals, and 
+_some_ punctuation keys on a standard US 
+keyboard are accounted for. 
+
+Set on screen at 20pt (or multiple of), with 
+antialias off.
+
+
+---------------
+Usage:  This is a free font--you may use 
+this and other V5 fonts at will.  It may not 
+be sold, altered, or improperly credited,
+however.  All I ask is that you kindly inform 
+me if you find this font useful, and where
+you've used it.
+
+Enjoy,
+
+©2002 
+Roberto Christen
+rob@vfive.com
+
+
