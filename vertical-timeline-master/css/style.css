@@ -1,0 +1,9 @@
+h1, h2{
+    text-align: center;
+}
+
+.homepage{
+    background-color: red;
+    background-position: center;
+    background-size: cover;
+}
