@@ -15,6 +15,7 @@ public class backMenu : MonoBehaviour {
 
     void PlayScene()
     {
+        print("coucou");
         SceneManager.LoadScene("menuPrincipal", LoadSceneMode.Single);
     }
 }

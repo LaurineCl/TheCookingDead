@@ -14,3 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/cuisine.unity
     guid: c221dbbe9f818a84eab0b8a033e7f5cc
+  - enabled: 1
+    path: Assets/scenes/Exploration.unity
+    guid: 5aeef77e930d16c4bba58f3924b367cf
