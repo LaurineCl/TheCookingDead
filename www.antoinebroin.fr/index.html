@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<!-- Mirrored from www.antoinebroin.fr/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Oct 2017 20:02:34 GMT -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antoine Broin</title>
+  <meta name="description" content="Full screen background video demo">
+  <meta name="author" description="Call Me Nick">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oxygen:400,300,700">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  
+<div class="content">
+  <h1 class="content__heading">Site en maintenance</h1>
+  <a href="https://blog.antoinebroin.fr/" class="content__cta">Blog</a>
+</div>
+
+<video id="my-video" class="video" loop>
+  <source src="maintenance.mp4" type="video/mp4">
+</video>
+
+<script>
+(function() {
+  var video = document.getElementById("my-video");
+  video.addEventListener( "canplay", function() {
+    video.play();
+  });
+})();
+</script>
+
+</body>
+
+<!-- Mirrored from www.antoinebroin.fr/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 11 Oct 2017 20:02:35 GMT -->
+</html>
